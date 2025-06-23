@@ -1,0 +1,5 @@
+- ERA5_snippet.nc: Extract from: Hersbach, H., Bell, B., Berrisford, P., Biavati, G., Horányi, A., Muñoz Sabater, J., Nicolas, J., Peubey, C., Radu, R., Rozum, I., Schepers, D., Simmons, A., Soci, C., Dee, D., Thépaut, J-N. (2023): ERA5 hourly data on single levels from 1940 to present. Copernicus Climate Change Service (C3S) Climate Data Store (CDS), DOI: 10.24381/cds.adbb2d47, retrieved on August 27, 2024.
+- NOAA_time_series.csv: NOAA National Centers for Environmental information: Climate at a Glance: Global Time Series [Data set]. https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/global/time-series, retrieved on August 23, 2024.
+- World-happiness-report-2024.csv: Jain, A. (2024): World Happiness Report – Yearly Updated (2024). Available at: https://www.kaggle.com/datasets/jainaru/world-happiness-report-2024-yearly-updated. Accessed on: 8 May 2025.
+- Iris.csv: UCI Machine Learning Repository. (2023). Iris Data Set [Data set]. Kaggle. https://www.kaggle.com/datasets/uciml/iris/data, retrieved on July 24, 2024.
+- /Samples: Annika Nolte (2025)
